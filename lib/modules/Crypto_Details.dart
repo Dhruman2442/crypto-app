@@ -35,9 +35,6 @@ class _MovieDetailsState extends State<CryptoDetails> {
                 ),
               ],
             ),
-            // The card widget with top padding,
-            // incase if you wanted bottom padding to work,
-            // set the `alignment` of container to Alignment.bottomCenter
             Container(
                 alignment: Alignment.topCenter,
                 padding: EdgeInsets.only(top: 15.0),
